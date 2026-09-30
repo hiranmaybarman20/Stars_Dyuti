@@ -170,7 +170,7 @@ const students = [
         rank: "GMR 4207",
         course: "GNM Nursing",
         institute: "KALIMPONG DH",
-        image: "BIJALI PARVIN.jpg"
+        image: "https://www.image2url.com/r2/default/images/1790810446684-f0a6a9be-2656-4ecc-bafc-9ed2290e4012.jpg"
     },
 
     {
@@ -179,7 +179,7 @@ const students = [
         rank: "GMR 5539",
         course: "GNM Nursing",
         institute: "MEDINIPUR MCH",
-        image: "DIPANWITA ROY.jpg"
+        image: "https://www.image2url.com/r2/default/images/1790810500966-18a9eb47-31d7-449b-853d-fed35912b8dd.jpg"
     },
 
     {
@@ -188,7 +188,7 @@ const students = [
         rank: "GMR 6463",
         course: "GNM Nursing",
         institute: "JHARGRAM MCH",
-        image: "ANWESHA BARMAN.jpg"
+        image: "https://www.image2url.com/r2/default/images/1790810593060-4fb9f9cd-62a5-4cae-bf16-d0caccbc9d77.jpg"
     },
 
     {
@@ -197,7 +197,7 @@ const students = [
         rank: "GMR 6696",
         course: "GNM Nursing",
         institute: "JHARGRAM MCH",
-        image: "RIMPA BARMAN.jpg"
+        image: "https://www.image2url.com/r2/default/images/1790810634015-e0646931-d408-424f-98b5-99340511f5d5.jpg"
     },
 
 
@@ -209,7 +209,7 @@ const students = [
         rank: "GMR 257",
         course: "B.Sc Nursing",
         institute: "MCH KOLKATA",
-        image: "ANKITA SARKAR.jpg"
+        image: "https://www.image2url.com/r2/default/images/1790810775166-af86b9fa-2755-4384-bdac-3f267bd6e7f9.jpg"
     },
 
     {
@@ -218,7 +218,7 @@ const students = [
         rank: "GMR 304",
         course: "B.Sc Nursing",
         institute: "R.G. KAR MCH",
-        image: "SMRITIPARNA SEN.jpg"
+        image: "https://www.image2url.com/r2/default/images/1790810831952-c40f26fd-c24e-420c-8396-b8e3bbb1d6ef.jpg"
     },
 
     {
@@ -227,7 +227,7 @@ const students = [
         rank: "GMR 640",
         course: "B.Sc Nursing",
         institute: "R.G. KAR MCH",
-        image: "PIYALI DATTA.jpg"
+        image: "https://www.image2url.com/r2/default/images/1790810888628-19f11b6d-8d26-4982-a785-910b88ea71b3.jpg"
     },
 
     {
@@ -236,7 +236,7 @@ const students = [
         rank: "GMR 654",
         course: "B.Sc Nursing",
         institute: "I.D & B.G.",
-        image: "MANIDIPA DEY.jpg"
+        image: "https://mp3tourl.com/images/1790810921821-b24bb6aa-6c17-4c5e-92a4-3b0183af9ca6.jpg"
     },
 
     {
@@ -245,7 +245,7 @@ const students = [
         rank: "GMR 758",
         course: "B.Sc Nursing",
         institute: "SAGORE DUTTA MCH",
-        image: "RIYA SARKAR.jpg"
+        image: "https://mp3tourl.com/images/1790811005076-c89f8bf0-c41e-4adf-8974-1b0104e1b912.jpg"
     },
 
     {
@@ -254,7 +254,7 @@ const students = [
         rank: "GMR 1607",
         course: "B.Sc Nursing",
         institute: "NBMCH",
-        image: "RITA BARMAN.jpg"
+        image: "https://mp3tourl.com/images/1790811032348-67bc6bd7-d322-4e22-9956-de798dc2c746.jpg"
     },
 
     {
@@ -263,7 +263,7 @@ const students = [
         rank: "GMR 1745",
         course: "B.Sc Nursing",
         institute: "HOWRAH DH",
-        image: "SABNAM BEGUM.jpg"
+        image: "https://mp3tourl.com/images/1790811062764-05a7ff8e-de4c-4f5b-bd93-46a836a4f476.jpg"
     },
 
     {
@@ -272,7 +272,7 @@ const students = [
         rank: "GMR 1789",
         course: "B.Sc Nursing",
         institute: "HOWRAH DH",
-        image: "AFCHHANA MANDAL.jpg"
+        image: "https://mp3tourl.com/images/1790811082491-40d5a8bd-e723-4ae8-aedf-54aab93b9e85.jpg"
     },
 
     {
@@ -281,7 +281,7 @@ const students = [
         rank: "GMR 2238",
         course: "B.Sc Nursing",
         institute: "I.D & B.G.",
-        image: "BARNITA ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811101933-f509eb76-33ad-4167-961e-b758f1fae05a.jpg"
     },
 
     {
@@ -290,7 +290,7 @@ const students = [
         rank: "GMR 2940",
         course: "B.Sc Nursing",
         institute: "SSCG MCH",
-        image: "PREYOSI ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811123644-6c20bf40-a6f7-4622-8ea2-3060c031d4dc.jpg"
     },
 
     {
@@ -299,7 +299,7 @@ const students = [
         rank: "GMR 3902",
         course: "B.Sc Nursing",
         institute: "MATANGINI DH",
-        image: "ARPITA ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811144582-6189a6cb-237e-42d1-9570-3db1f184952f.jpg"
     },
 
     {
@@ -308,7 +308,7 @@ const students = [
         rank: "GMR 4094",
         course: "B.Sc Nursing",
         institute: "SANTINIKETAN CON",
-        image: "ADITY ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811160339-c84afc8b-3461-45f1-8d6c-6ba59cec9ef0.jpg"
     },
 
     {
@@ -317,7 +317,7 @@ const students = [
         rank: "GMR 330",
         course: "ANM Nursing",
         institute: "BARASAT MCH",
-        image: "SURAIYA SULTANA.jpg"
+        image: "https://mp3tourl.com/images/1790811181569-fecb11cf-c03a-4982-b61f-1ad6043e045b.jpg"
     },
 
     {
@@ -326,7 +326,7 @@ const students = [
         rank: "GMR 1970",
         course: "ANM Nursing",
         institute: "I.D & B.G.",
-        image: "MANAMI ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811202690-b2a30023-2a60-4a8b-9990-cec15ce0b5ad.jpg"
     },
 
     {
@@ -335,7 +335,7 @@ const students = [
         rank: "GMR 2030",
         course: "GNM Nursing",
         institute: "MJN MCH",
-        image: "TRISHA NAG.jpg"
+        image: "https://mp3tourl.com/images/1790811238012-eb7f8dca-f225-40f0-a56e-bc14aefa743a.jpg"
     },
 
     {
@@ -344,7 +344,7 @@ const students = [
         rank: "GMR 2185",
         course: "GNM Nursing",
         institute: "ALIPURDUAR DH",
-        image: "ISHITA FARHANA.jpg"
+        image: "https://mp3tourl.com/images/1790811260158-bcc6259d-d641-4560-92b9-b0a4f0f06336.jpg"
     },
 
     {
@@ -353,7 +353,7 @@ const students = [
         rank: "GMR 2527",
         course: "GNM Nursing",
         institute: "MJN MCH",
-        image: "RIMI SIKDER.jpg"
+        image: "https://mp3tourl.com/images/1790811279473-092e6845-2a5d-48a1-b201-4b49c8bf688e.jpg"
     },
 
     {
@@ -362,7 +362,7 @@ const students = [
         rank: "GMR 5282",
         course: "GNM Nursing",
         institute: "TAMROLIPTO MCH",
-        image: "PUJA SARKAR.jpg"
+        image: "https://mp3tourl.com/images/1790811299665-b62a7d3c-9b27-4e61-af2b-ed1938e9b0f1.jpg"
     },
 
 
@@ -374,7 +374,7 @@ const students = [
         rank: "GMR 237",
         course: "B.Sc Nursing",
         institute: "SSKM HOSPITAL",
-        image: "SAHISHNU BASAK.jpg"
+        image: "https://mp3tourl.com/images/1790811353242-85ec459e-58b6-49a0-a099-da0cbbb33c1f.jpg"
     },
 
     {
@@ -383,7 +383,7 @@ const students = [
         rank: "GMR 954",
         course: "B.Sc Nursing",
         institute: "NBMCH",
-        image: "SNEHA ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811402448-81c80b51-d3fa-4e75-a3ed-e54c9b4a519e.jpg"
     },
 
     {
@@ -392,25 +392,22 @@ const students = [
         rank: "GMR 1300",
         course: "B.Sc Nursing",
         institute: "BURDWAN MCH",
-        image: "NEHA DEBNATH.jpg"
+        image: "https://mp3tourl.com/images/1790811447437-fe5f36af-efea-4626-9aa7-33a8f6951048.jpg"
     },
-
-    {
-        name: "SNEHA ROY",
+	{ 	name: "SNEHA ROY",
         session: "2023-24",
-        rank: "GMR 1544",
+        rank: "GMR 1549",
         course: "B.Sc Nursing",
         institute: "CNMCH",
-        image: "SNEHA ROY.jpg"
+        image: "https://mp3tourl.com/images/1790812571514-dab96ec9-8bb2-4ca0-8ffb-e4595f85fb75.jpg"
     },
-
     {
         name: "NISE PARVIN",
         session: "2023-24",
         rank: "GMR 1942",
         course: "B.Sc Nursing",
         institute: "CNMCH",
-        image: "NISE PARVIN.jpg"
+        image: "https://mp3tourl.com/images/1790811465132-ac30d80b-71d0-4067-980e-ae2752aa35db.jpg"
     },
 
     {
@@ -419,7 +416,7 @@ const students = [
         rank: "GMR 2405",
         course: "B.Sc Nursing",
         institute: "RAHURMAT MCH",
-        image: "URMI SAHA.jpg"
+        image: "https://mp3tourl.com/images/1790811480617-b96f770c-9681-4577-aa40-d18c08bd7df8.jpg"
     },
 
     {
@@ -428,7 +425,7 @@ const students = [
         rank: "GMR 2419",
         course: "B.Sc Nursing",
         institute: "I.D & B.G.",
-        image: "ANKITA ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811503656-ecba63ee-374b-49e8-848f-e7d2d10482da.jpg"
     },
 
     {
@@ -437,7 +434,7 @@ const students = [
         rank: "GMR 2477",
         course: "B.Sc Nursing",
         institute: "ASANSOL ESI",
-        image: "NIBEDITA SARKAR.jpg"
+        image: "https://mp3tourl.com/images/1790811524034-0053841c-9406-4a9f-8f1e-53cb8ff87d75.jpg"
     },
 
     {
@@ -446,7 +443,7 @@ const students = [
         rank: "GMR 4434",
         course: "B.Sc Nursing",
         institute: "ASANSOL ESI",
-        image: "SAHINA AKTAR.jpg"
+        image: "https://mp3tourl.com/images/1790811539764-85ff375d-c8da-4ae5-b52e-6311a47384da.jpg"
     },
 
     {
@@ -455,7 +452,7 @@ const students = [
         rank: "GMR 5770",
         course: "B.Sc Nursing",
         institute: "SURI DH",
-        image: "PAWLAMI BARMAN.jpg"
+        image: "https://mp3tourl.com/images/1790811557066-0930fafb-1adb-4e0f-9874-40cf47b4b0cf.jpg"
     },
 
     {
@@ -464,7 +461,7 @@ const students = [
         rank: "GMR 6017",
         course: "B.Sc Nursing",
         institute: "SANTINIKETAN CON",
-        image: "SATARUPA DAS.jpg"
+        image: "https://mp3tourl.com/images/1790811576067-e6383181-40bc-466d-bf97-e9dda937fb39.jpg"
     },
 
     {
@@ -473,7 +470,7 @@ const students = [
         rank: "GMR 850",
         course: "ANM Nursing",
         institute: "BARASAT MCH",
-        image: "PINKI DAS.jpg"
+        image: "https://mp3tourl.com/images/1790811592284-14ae4cb3-142b-482d-9812-75796b0a9863.jpg"
     },
 
     {
@@ -482,7 +479,7 @@ const students = [
         rank: "GMR 2034",
         course: "GNM Nursing",
         institute: "NBMCH",
-        image: "TANUSHREE MODAK.jpg"
+        image: "https://mp3tourl.com/images/1790811624062-e2c87cbc-0b62-4581-954f-181e165a4f30.jpg"
     },
 
     {
@@ -491,7 +488,7 @@ const students = [
         rank: "GMR 2967",
         course: "GNM Nursing",
         institute: "NBMCH",
-        image: "NUSRAT JAHAN.jpg"
+        image: "https://mp3tourl.com/images/1790811651915-ebe747d2-55e3-4a21-8a9c-813424a80ac0.jpg"
     },
 
     {
@@ -500,7 +497,7 @@ const students = [
         rank: "GMR 2325",
         course: "GNM Nursing",
         institute: "ALIPURDUAR DH",
-        image: "NILAM KHATUN.jpg"
+        image: "https://mp3tourl.com/images/1790811668461-ab79d23d-eea5-40ec-ba9c-9e73cae6378f.jpg"
     },
 	
 	{
@@ -509,7 +506,7 @@ const students = [
         rank: "GMR 3286",
         course: "GNM Nursing",
         institute: "MJN MCH",
-        image: "PAPI KIRTANIA.jpg"
+        image: "https://mp3tourl.com/images/1790811690067-2da53456-7360-4edb-835a-4149ca04b0ab.jpg"
     },
 	{
         name: "RIMPA BARMAN",
@@ -517,7 +514,7 @@ const students = [
         rank: "GMR 3587",
         course: "GNM Nursing",
         institute: "RG KAR MCH",
-        image: "RIMPA BARMAN.jpg"
+        image: "https://mp3tourl.com/images/1790811708303-27b9a862-3064-4cc6-a855-83795f9725fd.jpg"
     },
 	{
         name: "MITALI PARVIN",
@@ -525,7 +522,7 @@ const students = [
         rank: "GMR 4921",
         course: "GNM Nursing",
         institute: "JHARGRAM MCH",
-        image: "MITALI PARVIN.jpg"
+        image: "https://mp3tourl.com/images/1790811724679-064d9058-8199-44be-8dd2-c192d6ee07ad.jpg"
     },
 	{
         name: "RIYA SARKAR",
@@ -533,7 +530,7 @@ const students = [
         rank: "GMR 5616",
         course: "GNM Nursing",
         institute: "TAMROLIPTO MCH",
-        image: "RIYA SARKAR.jpg"
+        image: "https://mp3tourl.com/images/1790811745627-528b72dd-2947-4756-93a7-362a8d9cc684.jpg"
     },
 	{
         name: "DIPTA MOHANTA",
@@ -541,7 +538,7 @@ const students = [
         rank: "GMR 6086",
         course: "GNM Nursing",
         institute: "ESI HOSPITAL",
-        image: "DIPTA MOHANTA.jpg"
+        image: "https://mp3tourl.com/images/1790811764831-67fb3c55-eb26-4cc8-a526-a97e7e083f61.jpg"
     },
 
     /* ================= 2023 ================= */
@@ -552,7 +549,7 @@ const students = [
         rank: "GMR 289",
         course: "BHA",
         institute: "JNM HOSPITAL",
-        image: "RANIK SARKAR.jpg"
+        image: "https://mp3tourl.com/images/1790811782536-287f3fec-499f-4004-b410-07e4cfafa144.jpg"
     },
 
     {
@@ -561,7 +558,7 @@ const students = [
         rank: "GMR 763",
         course: "B.Sc Nursing",
         institute: "NBMCH",
-        image: "MOUMITA SHIL.jpg"
+        image: "https://mp3tourl.com/images/1790811802985-a269e491-f3fd-4609-9550-2209cdec8ffd.jpg"
     },
 
     {
@@ -570,7 +567,7 @@ const students = [
         rank: "GMR 924",
         course: "B.Sc Nursing",
         institute: "NRS MCH",
-        image: "PRIYANKA BISWAS.jpg"
+        image: "https://mp3tourl.com/images/1790811818830-bef3f2e4-f455-48ae-a4af-ee710e0e0e46.jpg"
     },
 
     {
@@ -579,7 +576,7 @@ const students = [
         rank: "GMR 1063",
         course: "B.Sc Nursing",
         institute: "NBMCH",
-        image: "ISHITA KARMAKAR.jpg"
+        image: "https://mp3tourl.com/images/1790811841299-e8a88a17-2203-4433-9da0-9e714cc691a9.jpg"
     },
 
     {
@@ -588,7 +585,7 @@ const students = [
         rank: "GMR 2404",
         course: "B.Sc Nursing",
         institute: "NBMCH",
-        image: "POULAMI DAS.jpg"
+        image: "https://mp3tourl.com/images/1790811865375-d8637d5c-1860-41da-9583-86e00851761e.jpg"
     },
 
     {
@@ -597,7 +594,7 @@ const students = [
         rank: "GMR 2983",
         course: "B.Sc Nursing",
         institute: "RAMPURHAT MCH",
-        image: "ASMITA SARKAR.jpg"
+        image: "https://mp3tourl.com/images/1790811880916-cacea297-fa94-473e-9407-834c623bb938.jpg"
     },
 
     {
@@ -606,7 +603,7 @@ const students = [
         rank: "GMR 4021",
         course: "B.Sc Nursing",
         institute: "MURSHIDABAD MCH",
-        image: "SWASTIKA BARMAN.jpg"
+        image: "https://mp3tourl.com/images/1790811902319-8813b46e-1392-4cdb-ba3b-96706ec691e6.jpg"
     },
 
     {
@@ -615,7 +612,7 @@ const students = [
         rank: "GMR 4329",
         course: "B.Sc Nursing",
         institute: "MURSHIDABAD MCH",
-        image: "SHRABANI BARMAN.jpg"
+        image: "https://mp3tourl.com/images/1790811931713-ab0185b0-ed20-4167-89d8-46739247918e.jpg"
     },
 
     {
@@ -624,7 +621,7 @@ const students = [
         rank: "GMR 4473",
         course: "B.Sc Nursing",
         institute: "RAMPURHAT MCH",
-        image: "ANKITA BARMA.jpg"
+        image: "https://mp3tourl.com/images/1790811950880-8b35cd2c-b2f6-4144-b288-d1ea32ce3c98.jpg"
     },
 
     {
@@ -633,7 +630,7 @@ const students = [
         rank: "GMR 5274",
         course: "B.Sc Nursing",
         institute: "RAMPURHAT MCH",
-        image: "MAHUA ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811972960-e7fc32f7-df62-446e-a097-d90f25df9980.jpg"
     },
 
     {
@@ -642,7 +639,7 @@ const students = [
         rank: "GMR 6261",
         course: "B.Sc Nursing",
         institute: "MATANGINI DH",
-        image: "DEBI ROY.jpg"
+        image: "https://mp3tourl.com/images/1790811990251-2924f9bb-aedb-44dd-acd0-768038efb0aa.jpg"
     },
 
     {
@@ -651,7 +648,7 @@ const students = [
         rank: "GMR 6823",
         course: "B.Sc Nursing",
         institute: "SURI DH",
-        image: "PRITI INDRA.jpg"
+        image: "https://mp3tourl.com/images/1790812009393-dbd4e20f-a5b5-4603-98a6-74597964956d.jpg"
     },
 
     {
@@ -660,7 +657,7 @@ const students = [
         rank: "GMR 20580",
         course: "GNM Nursing",
         institute: "MURSHIDABAD MCH",
-        image: "MONTI ORAON.jpg"
+        image: "https://mp3tourl.com/images/1790812036172-bf515c5c-4b8e-4bae-b181-f6d53d8d6ae9.jpg"
     },
 
     {
@@ -669,7 +666,7 @@ const students = [
         rank: "GMR 1344",
         course: "GNM Nursing",
         institute: "NRS MCH",
-        image: "ANTARA SARKAR.jpg"
+        image: "https://mp3tourl.com/images/1790812054329-aec3691f-b3e9-4ef8-b286-d8958b46abe5.jpg"
     },
 
     {
@@ -678,7 +675,7 @@ const students = [
         rank: "GMR 3362",
         course: "GNM Nursing",
         institute: "JALPAIGURI MCH",
-        image: "SAHELI PARVIN.jpg"
+        image: "https://mp3tourl.com/images/1790812086044-c8581824-8ed8-481a-a0e8-97d3a6eb6b4f.jpg"
     },
 
     {
@@ -687,7 +684,7 @@ const students = [
         rank: "GMR 4032",
         course: "GNM Nursing",
         institute: "SAMMILANI MCH",
-        image: "PARVINA KHATUN.jpg"
+        image: "https://mp3tourl.com/images/1790812103167-febf1c33-11dc-49e4-8bf6-82ab69549aad.jpg"
     }
 
 ];
